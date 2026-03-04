@@ -12,12 +12,14 @@ Develop and evaluate regression models to predict housing prices and identify th
 
 The final tuned Ridge regression model achieved the following performance on the test set:
 
+```
 | Metric | Value |
 
 |------|------|
 | R²  | ~0.77 |
 | MAE | ~0.196 |
 | RMSE | ~0.256 |
+```
 
 The results indicate that the model explains approximately **77% of the variance in housing prices** and provides reasonably accurate predictioons for unseen data.
 
